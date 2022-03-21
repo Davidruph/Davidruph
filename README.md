@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidruph, I am a Backend web developer.
 - 👀 I’m interested in building reliable solutions with php, bootstrap, html, css and javascript.
-- 🌱 I’m currently learning backend development using Laravel and plus i also learn python django at my free time for fun.
+- 🌱 I’m currently learning backend development using Laravel.
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 you can reach out to me via fiverr link below
 https://www.fiverr.com/users/davidjunior195/
