@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Davidruph, I am a Full Stack web developer.
-- 👀 I’m interested in building reliable solutions with php, bootstrap, html, css and javascript.
-- 🌱 I’m currently learning backend development using Laravel and react js.
-- 💞️ I’m looking to collaborate on more projects 
-- 📫 you can reach out to me via fiverr link below
-https://www.fiverr.com/users/davidjunior195/
+👋 Hi, I’m Davidruph, a Full Stack web developer.
 
-<!---
-Davidruph/Davidruph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I specialize in building reliable solutions using modern web technologies
+
+💼 I'm eager to collaborate on exciting projects.
+
+⚙️ My tech stacks include:
+
+PHP
+Bootstrap
+Tailwind
+HTML
+CSS
+JavaScript
+Laravel
+React.js
+Node js
+
+📫 Reach out to me via my Upwork profile (https://www.upwork.com/freelancers/~012177754158bac257) for inquiries.
