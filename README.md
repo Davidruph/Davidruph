@@ -1,4 +1,4 @@
-👋 Hi, I’m Davidruph, a Full Stack web developer.
+👋 Hi, I’m Davidruph, a Full Stack software developer.
 
 👀 I specialize in building reliable solutions using modern web technologies
 
@@ -13,6 +13,8 @@ HTML
 CSS
 JavaScript
 Laravel
+Codeigniter
+Mysql/Firebase
 React.js
 Node js
 
