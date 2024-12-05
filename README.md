@@ -1,6 +1,6 @@
-👋 Hi, I’m Davidruph, a Full Stack software developer.
+👋 Hi there! I’m a Full-Stack Developer with a passion for building scalable and user-friendly applications. My projects often blend creativity with functionality, focusing on clean code, performance, and impactful user experiences.
 
-👀 I specialize in building reliable solutions using modern web technologies
+👀 I enjoy experimenting with new technologies and contributing to open-source whenever possible. Check out my repositories to see what I’ve been working on! Let’s connect and collaborate. 
 
 💼 I'm eager to collaborate on exciting projects.
 
