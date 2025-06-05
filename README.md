@@ -6,7 +6,7 @@
 - 🌱 Learning more about **AI integration** and **Scalable Microservices**.
 - 💬 Ask me about **React**, **Node.js**, **Laravel**, and **DevOps** practices.
 - 🧠 Love solving problems using **algorithms**, **clean code**, and **optimized queries**.
-- 🛠️ Building: `MailCheetah.ai`, `Kommunita`, `QampusPlus`.
+- 🛠️ Building: `MailCheetah.ai`, `Kommunita`, `QampusPlus`, `Seekers Digital Network`.
 
 ---
 
@@ -15,8 +15,10 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0EA5E9?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -42,7 +44,8 @@
 - 🔗 [MailCheetah](https://mailcheetah.ai)
 - 🔗 [Kommunita](https://kommunita.com/)
 - 🔗 [QampusPlus](http://qampusplusapp.com/)
-- 🔗 [Techvibes Ltd](https://techvibesltd.com/)
+- 🔗 [QampusPlus - old version](https://school.qampusplus.com/)
+- 🔗 [Seekers Digital Network](https://seekersgh.com/)
 
 ---
 
