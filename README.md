@@ -2,11 +2,11 @@
 
 🚀 Passionate and results-oriented **Software Developer** with over **5 years of experience** crafting scalable, responsive, and user-centric web applications.
 
-- 🔭 Currently working at **Techvibes Ltd** as a Software Architect/Developer.
+- 🔭 Currently working at **Techvibes Ltd** as a Software Architect/frontend Lead.
 - 🌱 Learning more about **AI integration** and **Scalable Microservices**.
-- 💬 Ask me about **React**, **Node.js**, **Laravel**, and **DevOps** practices.
+- 💬 Ask me about **React**, **Codeigniter**, **Laravel**, and **Nextjs** practices.
 - 🧠 Love solving problems using **algorithms**, **clean code**, and **optimized queries**.
-- 🛠️ Building: `MailCheetah.ai`, `Kommunita`, `QampusPlus`, `Seekers Digital Network`.
+- 🛠️ Building: `MailCheetah.ai`, `Kommunita`, `QampusPlus`, `Golf4C0mmunity`.
 
 ---
 
@@ -42,10 +42,10 @@
 ### 🌐 Projects
 
 - 🔗 [MailCheetah](https://mailcheetah.ai)
-- 🔗 [Kommunita](https://kommunita.com/)
-- 🔗 [QampusPlus](http://qampusplusapp.com/)
+- 🔗 [Golf4Community](https://golfcommunity-plum.vercel.app/)
+- 🔗 [QampusPlus - new version](http://qampusplusapp.com/)
 - 🔗 [QampusPlus - old version](https://school.qampusplus.com/)
-- 🔗 [Seekers Digital Network](https://seekersgh.com/)
+- 🔗 [Kommunita](https://kommunita.com/)
 
 ---
 
@@ -53,7 +53,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-agbugba-119b2b120)  
 📧 **Email:** dagbugba@yahoo.com  
-📱 **Phone:** +2348149913512  
+📱 **Phone:** +2348149913512  +2348081233897(Whatsapp)
 🌍 **Fiverr:** [davidjunior195](https://www.fiverr.com/davidjunior195)  
 🌍 **Upwork:** [Profile](https://www.upwork.com/freelancers/~012d7489e964a15135?viewMode=1)  
 
